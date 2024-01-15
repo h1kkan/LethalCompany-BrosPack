@@ -6,32 +6,40 @@ Installs and properly configures 139 mods! All mods have been tested on game ver
 
 ## Main Features and Tricks Included in the Modpack
 
-- A cool, advanced cockpit and cameras for the company shuttle!
-- Expanded and improved lobby - now playable even with 32 space marines, coefficients for mobs/dungeons/loot/quotas automatically increase proportionally to the number of players
-- 1st and 3rd person views! Press `V` in-game to switch views!
-- In-game menu for mod settings and advanced game settings at startup! For an already launched game, hot-swap mod setting menu opens with the `F11` button
-- Possible to execute terminal commands remotely (very relevant for single-player), the menu opens with the `F10` button
-- Night vision device! Turn on/off with the `C` button
-- Additional terminal commands, and finally `TAB` works for command history in the terminal! (IT folks will be thrilled)
-- Expanded inventory (11 slots) plus separate slots for gear (press `LEFT-ALT` to switch to the gear hotbar)
-- Quickly switch the item in hand - inventory slots are tied to the 1-9 buttons
-- Convenient minimap with markers - very useful in single-player, turn on via `F2`, settings `F1`
-- Hotkeys for radio (`R`) and flashlight (`F`) - work even when devices are not in hand!
-- Cleaning robot on board the company shuttle - automatic sorting and stacking of junk in the hold (button `M`) and gear in the cabinet (button `N`) with one click!
-- Improved scanner, now with cost calculation of loot in view and support for non-stop scanning - just hold the scanner button ;)
-- Can use jetpack even with full hands!
-- Expanded leveling system and XP for company space marines
-- Expanded company ship hold - now possible to transport up to 9999 items at once!
-- Ability to play any music (see [**Boombox_Controller**](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)) and videos (see [**Television_Controller**](https://thunderstore.io/c/lethal-company/p/KoderTeh/Television_Controller/)), as well as adjust device volume!
-- Company shuttle landing site now protected by two automatic turrets!
-- Possible to join the game even if the landing is in process!
-- Improved HUD interface of the company spacesuit assistant!
-- Convenient UI crosshair for weapons of any taste!
-- Skip all splash screens and intro videos, straight to the menu!
-- Fixes for non-standard monitor aspect ratios and support for ultra-wide monitors
-- Loads of QoL mods and fixes for common issues!
-- Expanded company wardrobe - cool and cringe outfits for you and your bros!
-- And an endless number of other great features, see the full list of mods and their readmes ;)
+- **Enhanced Cockpit Experience:** Enjoy a cool, advanced cockpit and cameras for the company shuttle!
+- **Expanded Lobby:** Now accommodates up to 32 space marines. Mob, dungeon, loot, and quota coefficients automatically scale with the number of players (thanks to [**CoomfyDungeon**](https://thunderstore.io/c/lethal-company/p/Coomfy/CoomfyDungeon/))
+- **Versatile Viewing Angles:** Switch between 1st and 3rd person views with a press of `V` in-game. Plus, an adjustable game's FOV!
+- **Accessible Mod Settings:** In-game menu for mod configurations and advanced settings at startup. Hot-swap mod setting menu available with `F7`
+- **Customizable Clock Display:** Recruits can now personalize the clock's appearance and visibility
+- **Night Vision for All:** Issued by the company to all recruits. Toggle on/off using the `C` button
+- **Therapeutic Dancing:** Heal by dancing on the ship – a minimum of 10 minutes per day as recommended by therapists
+- **Wireless Gear Charging:** With Tesla coils over the company ship, charge all gear wirelessly while you're on ship
+- **Enhanced Terminal Commands:**
+  - `TAB` for command history – a big plus for IT folks :D
+  - `detailed` command displays a list of all remaining scrap outside the ship and their values
+  - `enemies` command scans for enemy types and counts on the map
+- **Remote Terminal Access:** Recruits can use Terminal commands through in-game chat and a new UI, accessible with `F10`
+- **Expanded Inventory:** 11 slots, plus dedicated slots for gear and ammo. Switch to gear hotbar with `LEFT-ALT`
+- **Flexible Decoration Purchases:** All recruits can buy any ship decoration anytime, and cosmetic items remain even after dismissal!
+- **Quick Item Switching:** Inventory slots linked to the 1-9 buttons
+- **Convenient Minimap:** Toggle with `F2` and configure settings with `F1`. Especially handy in solo plays!
+- **Handy Hotkeys:** `R` for radio and `F` for flashlight, usable even when not held
+- **Automated Ship Maintenance:** Company-provided maid for sorting and stacking in the hold (`M`) and cabinet (`N`) (see [ShipMaid](https://thunderstore.io/c/lethal-company/p/bozzobrain/ShipMaid/))
+- **Advanced Scanner:** Includes loot cost calculation and supports non-stop scanning
+- **Jetpack Usability:** Now operable even with full hands!
+- **Enhanced Leveling System:** More XP and levels for company space marines
+- **Larger Ship Hold:** Transport up to 9999 items at onc
+- **Multimedia Entertainment:** Play any music (see [**Boombox_Controller**](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)) and any videos (see [**Television_Controller**](https://thunderstore.io/c/lethal-company/p/KoderTeh/Television_Controller/)), with adjustable volume
+- **Secured Landing Site:** Company landing sites (not all at this time) now protected by two automatic turrets!
+- **Join Mid-Landing:** Players can now join the game during landing sequences and ongoing campaing (as spectators)!
+- **Improved HUD:** Enhanced interface of the company spacesuit assistant!
+- **Customizable UI Crosshair:** Suitable for any weapon type and any on-site conditions!
+- **Direct Menu Access:** Skip all splash screens and intro video, jump to main menu instantly!
+- **Expanded Wardrobe:** A range of cool and quirky outfits for you and your crew mates ;)
+- **Aspect Ratio Fixes:** Support for non-standard and ultra-wide monitors, plus automatic resolution detection and extended video settings!
+- **Quality of Life Mods:** Numerous improvements and fixes for common issues
+- **Endless Features:** Explore the full list of mods and their detailed readmes for more ;)
+
 
 ## How to Install and Start Playing?
 
