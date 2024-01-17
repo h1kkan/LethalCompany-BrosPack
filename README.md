@@ -1,8 +1,8 @@
-# [V49][139 MODS] Unique modpack for true bros!
+# [V49][140 MODS] Unique modpack for true bros!
 
 Immerse youreself in a world where brotherhood and teamwork are paramount!
 
-Installs and properly configures 139 mods! All mods have been tested on game version V49 - no problems were noticed either in multiplayer or in single-player :cool:
+Installs and properly configures 140 mods! All mods have been tested on game version V49 - no problems were noticed either in multiplayer or in single-player :cool:
 
 ## Main Features and Tricks Included in the Modpack
 
