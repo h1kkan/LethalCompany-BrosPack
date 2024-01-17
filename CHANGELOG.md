@@ -1,1 +1,40 @@
-### init
+# 1.3.3
+* replace YippeeMod with HoarderBud (includes first as well)
+* add Bejr_PhoneCallCompany
+
+# 1.3.2
+* add Symbiosis
+
+# 1.3.1
+* add overrides
+* add HexiBetterShotgun
+
+# 1.3.0
+* set hotbar to 9 slots
+* remove TooManyEmotes for now
+* add YippeeMod
+* bump CozyImprovements to 1.2.2
+* bump JetpacksCarryBigItems to 1.0.2
+* bump ReservedItemSlotCore to 1.8.12
+* bump LethalLib to 0.13.2
+* bump MonitorLabels to 1.3.0
+* bump LethalCompanyVariables to 1.7.0
+* bump LC_API to 3.4.4
+* bump HotbarPlus to 1.5.6
+* bump SellTracker to 1.2.0
+
+
+# 1.2.0
+* update docs
+* bump LCRemoteTerminal to 1.2.0
+* bump DanceHealingOnShip to 2.3.0
+* bump ShipMaid to 3.2.1
+* bump LuckReservedBoombox to 1.0.7
+* bump ReservedItemSlotCore to 1.8.11
+* bump HotbarPlus to 1.5.4
+* bump LethalCompanyVariables to 1.5.4
+* bump ConfigurableCompany to 2.4.1
+* bump LC_API to 3.4.1
+
+# 1.1.0
+* init stable modpack
