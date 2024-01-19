@@ -1,4 +1,4 @@
-# [V49][143 MODS] Unique modpack for true bros!
+# ![V49](https://img.shields.io/badge/V49-black?style=for-the-badge) ![143 MODS](https://img.shields.io/badge/143_MODS-black?style=for-the-badge) Stable modpack for true bros!
 
 Immerse youreself in a world where brotherhood and teamwork are paramount!
 
