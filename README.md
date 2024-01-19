@@ -44,7 +44,7 @@ Installs and properly configures 155+ mods! All mods have been tested on game ve
 - **Additional Terminal Commands**
   - `detailed` command displays a list of all remaining scrap outside the ship and their values
   - `enemies` command scans for enemy types and counts on the map
-- **Availaible Chat Commands**
+- **Available Chat Commands**
   - **BoomBox**
     - `/bplay <youtube video url>` - play music (single links & playlists)
     - `/btime <timecode>` - place track position (example: `/btime 1:20`)
