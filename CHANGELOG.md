@@ -1,3 +1,40 @@
+# 1.4.0
+* add ATK-UnlimitedTZP
+* add AlwaysPickup
+* add BiggeryBattery
+* add BoomboxControllerVolumeSync for volume sync via Boombox_Controller
+* add BuyableShotgunShells and BuyableShotgun
+* add More_Emotes instead of TooManyEmotes
+* add PathfindingLagFix
+* add RugbugRedfern-Skinwalkers
+* add ViViKo-BunkbedRevive
+* add ViViKo-SpectateDeathCause-1.0.0
+* add egeadam-MoreScreams
+* add readthisifbad-SnatchinBracken
+* add x753-Mimics
+* replace UnlimitedPaint with BetterSprayPaint
+* bump ConfigurableCompany to 2.5.0
+* bump CustomSounds to 2.3.1
+* bump HotbarPlus to 1.5.7
+* bump LCSoundTool to 1.5.0
+* bump LC_API to 3.4.5
+* bump LethalCompanyVariables to 1.7.3
+* bump MonitorLabels to 1.3.1
+* bump ReservedFlashlightSlot to 1.6.1
+* bump ReservedSprayPaintSlot to 1.0.7
+* bump ReservedWalkieSlot to 1.6.0
+* bump SellTracker to 1.2.1
+* bump ShipMaid to 3.2.4
+* bump SubtitlesAPI to 0.0.6
+* bump TerminalApi to 1.5.1
+* drop LethalLoudnessMeter
+* drop No_Reload
+* drop PersistentPurchases
+* drop ShipTurrets
+* drop ViewbobFix
+* drop hoarded bud in favor of vanilla yupii
+* drop keyring mod
+
 # 1.3.3
 * replace YippeeMod with HoarderBud (includes first as well)
 * add Bejr_PhoneCallCompany
