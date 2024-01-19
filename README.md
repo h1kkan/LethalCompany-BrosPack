@@ -1,25 +1,32 @@
 
 <p align="center">
 <h1 align="center">
-<img alt="V49" src="https://img.shields.io/badge/V49_(latest)-black?style=for-the-badge">&nbsp;<img alt="155+ MODS" src="https://img.shields.io/badge/155+_MODS-black?style=for-the-badge"><br>
+<img alt="V47-V49 COMPATIBLE" src="https://img.shields.io/badge/V47--V49_compatible-black?style=for-the-badge">&nbsp;<img alt="155+ MODS INCLUDED" src="https://img.shields.io/badge/155+_mods_included-black?style=for-the-badge"><br>
 Stable modpack for true bros! Extra features! Extra fun!
 </h1>
 </p>
 
 <p align="center">
-  <img width="100%" height="256px" src="https://pb.h1kkan.me/ctcM2d.gif">
+  <img width="100%" height="256px" src="https://pb.h1kkan.me/storage-xfs/lethal-company-brospack-headbar-readme-v2.gif">
 </p>
 
-Installs and properly configures 155+ mods! All mods have been tested on game version V49 - no problems were noticed either in multiplayer or in single-player :cool:
+Installs and properly configures 155+ mods! All mods have been tested on game version V49 - no problems were noticed either in multiplayer or in single-player 😎
 
 > Thunderstore Link: https://thunderstore.io/c/lethal-company/p/pacanu/Bros_Pack/
+
+<p align="center">
+<h3 align="center">
+<strong>⚠️⚠️⚠️ACHTUNG! DON'T UPDATE MODPACK DEPENDENCIES MANUALLY!⚠️⚠️⚠️<br>
+<small>ALL DEPENDENCY UPDATES ARE DISTRIBUTED WITH MODPACK ITSELF!</small></strong>
+</h3>
+</p>
 
 ## TL;DR
 
 - **Up to 32 players and Join at AnyTime**
 - **Additional cosmetics and suits plus additional emotes stuff**
 - **Reserved HotBar for tools and extra space (9 slots) for junk**
-- **Customisable game mechanichs for mobs and event triggers**
+- **Customisable game mechanics for mobs and event triggers**
 - **All mods fully configurable via ingame menus**
 - **Additional KeyBinds**
   - `LEFT-ALT` - switch between hotbars
@@ -47,13 +54,13 @@ Installs and properly configures 155+ mods! All mods have been tested on game ve
 
 - **Enhanced Cockpit Experience:** Enjoy a cool, advanced cockpit and cameras for the company shuttle!
 - **Expanded Lobby:** Now accommodates up to 32 space marines. Mob, dungeon, loot, and quota coefficients automatically scale with the number of players (thanks to [**CoomfyDungeon**](https://thunderstore.io/c/lethal-company/p/Coomfy/CoomfyDungeon/))
-- **Occultism is alloved by CEO:** Revive dead players at the bunkbeds for some % of collected scrap!
+- **Occultism is allowed by CEO:** Revive dead players at the bunkbeds for some % of collected scrap!
 - **Versatile Viewing Angles:** Switch between 1st and 3rd person views with a press of `V` in-game. Plus, an adjustable game's FOV!
 - **Accessible Mod Settings:** In-game menu for mod configurations and advanced settings at startup. Hot-swap mod setting menu available with `F7`
 - **Customizable Clock Display:** Recruits can now personalize the clock's appearance and visibility
 - **Night Vision for All:** Issued by the company to all recruits. Toggle on/off using the `C` button
 - **Therapeutic Dancing:** Heal by dancing on the ship – a minimum of 10 minutes per day as recommended by therapists
-- **Bracken just want a hug!** Instead of instantly killing players on contact, Brackens now capture and drag players to a designated favorite spo
+- **Bracken just want a hug!** Instead of instantly killing players on contact, Brackens now capture and drag players to a designated favorite spot
 - **Wireless Gear Charging:** With Tesla coils over the company ship, charge all gear wirelessly while you're on ship
 - **Enhanced Terminal Commands:**
   - `TAB` for command history – a big plus for IT folks :D
@@ -69,9 +76,9 @@ Installs and properly configures 155+ mods! All mods have been tested on game ve
 - **Advanced Scanner:** Includes loot cost calculation and supports non-stop scanning
 - **Jetpack Usability:** Now operable even with full hands!
 - **Enhanced Leveling System:** More XP and levels for company space marines
-- **Larger Ship Hold:** Transport up to 9999 items at onc
+- **Larger Ship Hold:** Transport up to 9999 items at once
 - **Multimedia Entertainment:** Play any music (see [**Boombox_Controller**](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)) and any videos (see [**Television_Controller**](https://thunderstore.io/c/lethal-company/p/KoderTeh/Television_Controller/)), with adjustable volume
-- **Join Mid-Landing:** Players can now join the game during landing sequences and ongoing campaing (as spectators)!
+- **Join Mid-Landing:** Players can now join the game during landing sequences and ongoing campaign (as spectators)!
 - **Improved HUD:** Enhanced interface of the company spacesuit assistant!
 - **Customizable UI Crosshair:** Suitable for any weapon type and any on-site conditions!
 - **Direct Menu Access:** Skip all splash screens and intro video, jump to main menu instantly!
