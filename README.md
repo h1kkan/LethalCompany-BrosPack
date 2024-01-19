@@ -7,7 +7,7 @@ Stable modpack for true bros! Extra features! Extra fun!
 </p>
 
 <p align="center">
-  <img width="100%" height="256px" src="https://pb.h1kkan.me/ctcM2d.gif0">
+  <img width="100%" height="256px" src="https://pb.h1kkan.me/ctcM2d.gif">
 </p>
 
 Installs and properly configures 155+ mods! All mods have been tested on game version V49 - no problems were noticed either in multiplayer or in single-player :cool:
