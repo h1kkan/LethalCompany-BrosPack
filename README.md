@@ -1,8 +1,20 @@
-## ![V49](https://img.shields.io/badge/V49-black?style=for-the-badge) ![155+ MODS](https://img.shields.io/badge/155+_MODS-black?style=for-the-badge) Stable modpack for true bros! Extra features! Extra fun! :D
+
+<p align="center">
+<h1 align="center">
+<img alt="V49" src="https://img.shields.io/badge/V49_(latest)-black?style=for-the-badge">&nbsp;<img alt="155+ MODS" src="https://img.shields.io/badge/155+_MODS-black?style=for-the-badge"><br>
+Stable modpack for true bros! Extra features! Extra fun!
+</h1>
+</p>
+
+<p align="center">
+  <img width="100%" height="256px" src="https://pb.h1kkan.me/ctcM2d.gif0">
+</p>
 
 Installs and properly configures 155+ mods! All mods have been tested on game version V49 - no problems were noticed either in multiplayer or in single-player :cool:
 
-## TL;DR;
+> Thunderstore Link: https://thunderstore.io/c/lethal-company/p/pacanu/Bros_Pack/
+
+## TL;DR
 
 - **Up to 32 players and Join at AnyTime**
 - **Additional cosmetics and suits plus additional emotes stuff**
@@ -53,13 +65,12 @@ Installs and properly configures 155+ mods! All mods have been tested on game ve
 - **Quick Item Switching:** Inventory slots linked to the 1-9 buttons
 - **Convenient Minimap:** Toggle with `F2` and configure settings with `F1`. Especially handy in solo plays!
 - **Handy Hotkeys:** `R` for radio and `F` for flashlight, usable even when not held
-- **Automated Ship Maintenance:** Company-provided maid for sorting and stacking in the hold (`M`) and cabinet (`N`) (see [ShipMaid](https://thunderstore.io/c/lethal-company/p/bozzobrain/ShipMaid/))
+- **Automated Ship Maintenance:** Company-provided maid for sorting and stacking in the hold (`M`) (see [ShipMaid](https://thunderstore.io/c/lethal-company/p/bozzobrain/ShipMaid/))
 - **Advanced Scanner:** Includes loot cost calculation and supports non-stop scanning
 - **Jetpack Usability:** Now operable even with full hands!
 - **Enhanced Leveling System:** More XP and levels for company space marines
 - **Larger Ship Hold:** Transport up to 9999 items at onc
 - **Multimedia Entertainment:** Play any music (see [**Boombox_Controller**](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)) and any videos (see [**Television_Controller**](https://thunderstore.io/c/lethal-company/p/KoderTeh/Television_Controller/)), with adjustable volume
-- **Secured Landing Site:** Company landing sites (not all at this time) now protected by two automatic turrets!
 - **Join Mid-Landing:** Players can now join the game during landing sequences and ongoing campaing (as spectators)!
 - **Improved HUD:** Enhanced interface of the company spacesuit assistant!
 - **Customizable UI Crosshair:** Suitable for any weapon type and any on-site conditions!
@@ -73,6 +84,7 @@ Installs and properly configures 155+ mods! All mods have been tested on game ve
 ## How to Install and Start Playing?
 
 - Install the modpack via [**r2modman (_aka r2mm_)**](https://thunderstore.io/package/ebkr/r2modman) or [**Thunderstore (_aka tsmm_)**](https://www.overwolf.com/oneapp/Thunderstore-Thunderstore_Mod_Manager) mod manager
+- Make sure that all your friends installed this modpack, all most mods required by host&client
 - **!!! ATTENTION !!! Be sure to wait until all mods are installed _(installation of mods after downloading can take up to 10 minutes)_**
 - Then launch the game through the mod manager (click the `Start modded` button on the left sidebar) and enjoy the new, exciting experience from the leading company! ;)
 
