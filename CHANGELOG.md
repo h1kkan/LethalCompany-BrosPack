@@ -1,3 +1,7 @@
+# 1.4.1 
+* fmt readme
+* bump MoreCompany to 1.7.5
+
 # 1.4.0
 * add ATK-UnlimitedTZP
 * add AlwaysPickup
