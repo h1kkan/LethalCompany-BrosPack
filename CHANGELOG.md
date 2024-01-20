@@ -1,3 +1,8 @@
+# 1.4.3
+* bump MoreCompany to 1.7.6
+* bump GetLootForKills to 1.2.1
+* bump LethalAutocomplete to 0.4.2
+
 # 1.4.2
 * bump Boombox_Controller to 1.1.9
 * drop NutNutty-AlwaysPickup due to state sync issues
