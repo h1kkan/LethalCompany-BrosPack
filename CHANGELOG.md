@@ -1,3 +1,7 @@
+# 1.4.2
+* bump Boombox_Controller to 1.1.9
+* drop NutNutty-AlwaysPickup due to state sync issues
+
 # 1.4.1 
 * fmt readme
 * bump MoreCompany to 1.7.5
