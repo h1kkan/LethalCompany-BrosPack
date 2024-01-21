@@ -36,7 +36,6 @@ Installs and properly configures 155+ mods! All mods have been tested on game ve
   - `V` - switch between 1st and 3rd person view
   - `C` - night vision toggle on/off
   - `B`/`N` - navigate trough suit pages
-  - `M` - call shipmaid for cleanup
   - `F1` - minimap settings
   - `F2` - minimap toggle on/off
   - `F10` - access remote terminal menu (host-only)
@@ -72,7 +71,6 @@ Installs and properly configures 155+ mods! All mods have been tested on game ve
 - **Quick Item Switching:** Inventory slots linked to the 1-9 buttons
 - **Convenient Minimap:** Toggle with `F2` and configure settings with `F1`. Especially handy in solo plays!
 - **Handy Hotkeys:** `R` for radio and `F` for flashlight, usable even when not held
-- **Automated Ship Maintenance:** Company-provided maid for sorting and stacking in the hold (`M`) (see [ShipMaid](https://thunderstore.io/c/lethal-company/p/bozzobrain/ShipMaid/))
 - **Advanced Scanner:** Includes loot cost calculation and supports non-stop scanning
 - **Jetpack Usability:** Now operable even with full hands!
 - **Enhanced Leveling System:** More XP and levels for company space marines
