@@ -1,3 +1,8 @@
+# 1.4.5
+* bump LCRemoteTerminal to 2.0.0
+* bump BuyableShotgun to 1.0.2
+* bump BuyableShotgunShells to 1.0.3
+
 # 1.4.4
 * bump LethalAutocomplete to 0.4.3
 * bump BetterLadders to 1.4.2
