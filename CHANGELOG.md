@@ -1,3 +1,14 @@
+# 1.4.4
+* bump LethalAutocomplete to 0.4.3
+* bump BetterLadders to 1.4.2
+* bump GetLootForKills to 1.2.1
+* bump LethalCompany_InputUtils to 0.5.6
+* bump BetterItemScan to 3.0.1
+* bump CustomSounds to 2.3.2
+* bump ConfigurableCompany to 2.5.1
+* drop ShipMaid due to crashes when loot becomes outside ship (often due to ship upgrades)
+* drop ATK-UnlimitedTZP due to state sync issues
+
 # 1.4.3
 * bump MoreCompany to 1.7.6
 * bump GetLootForKills to 1.2.1
