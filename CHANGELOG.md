@@ -1,3 +1,6 @@
+# 1.5.1
+* bump ReservedFlashlightSlot to 1.6.2
+
 # 1.5.0
 * bump LethalCompanyVariables to 1.7.4
 * bump coresuits to 1.1.0
