@@ -1,3 +1,16 @@
+# 1.5.0
+* bump LethalCompanyVariables to 1.7.4
+* bump coresuits to 1.1.0
+* bump ReservedItemSlotCore to 1.8.14
+* bump ReservedWalkieSlot to 1.6.2
+* bump BuyableShotgunShells to 1.0.5
+* bump BuyableShotgun to 1.0.4
+* bump LethalCompany_InputUtils to 0.6.6
+* bump GetLootForKills to 1.2.3
+* bump BetterSprayPaint to 2.0.1
+* bump SnatchinBracken to 1.2.9
+* bump ConfigurableCompany to 2.5.2
+
 # 1.4.5
 * bump LCRemoteTerminal to 2.0.0
 * bump BuyableShotgun to 1.0.2
